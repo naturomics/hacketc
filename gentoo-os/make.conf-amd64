@@ -1,1 +1,26 @@
-/etc/portage/make.conf
+# These settings were set by the catalyst build script that automatically
+# built this stage.
+# Please consult /usr/share/portage/config/make.conf.example for a more
+# detailed example.
+CFLAGS="-march=native -O2 -pipe"
+CXXFLAGS="${CFLAGS}"
+# WARNING: Changing your CHOST is not something that should be done lightly.
+# Please consult http://www.gentoo.org/doc/en/change-chost.xml before changing.
+CHOST="x86_64-pc-linux-gnu"
+# These are the USE flags that were used in addition to what is provided by the
+# profile used for building.
+USE="bindist mmx sse sse2 symlink python gpm vim-syntax latex zsh-completion alsa multislot svg abi_x86_32 jpeg png pdf doc http2"
+PORTDIR="/usr/portage"
+DISTDIR="${PORTDIR}/distfiles"
+PKGDIR="${PORTDIR}/packages"
+MAKEOPTS="-j8"
+GRUB_PLATFORMS="pc"
+VIDEO_CARDS="nvidia"
+PHP_INI_VERSION="production"
+PHP_TARGETS="php7-0"
+PORTAGE_RSYNC_EXTRA_OPTS="--exclude-from=/etc/portage/rsync_excludes"
+#PORTDIR_OVERLAY="/etc/portage/repos.conf"
+
+#nginx modules
+NGINX_MODULES_HTTP="access auth_basic autoindex browser charset empty_gif fastcgi geo gzip limit_conn limit_req map memcached proxy referer rewrite scgi split_clients ssi upstream_hash upstream_ip_hash upstream_keepalive upstream_least_conn upstream_zone userid uwsgi flv mp4 lua pulseaudio"
+GENTOO_MIRRORS="http://mirrors.163.com/gentoo/"
