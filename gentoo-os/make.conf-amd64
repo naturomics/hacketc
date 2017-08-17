@@ -4,12 +4,13 @@
 # detailed example.
 CFLAGS="-march=native -O2 -pipe"
 CXXFLAGS="${CFLAGS}"
+CPU_FLAGS_X86="sse3 sse2 sse mmxext mmx ss eagerfpu pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid sse4_1 sse4_2 popcnt tsc_deadline_timer aes xsave f16c rdrand abm 3dnowprefetch epb intel_pt tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 hle avx2 avx smep bmi2 erms invpcid rtm mpx rdseed adx smap clflushopt xsaveopt xsavec xgetbv1 xsaves dtherm ida arat pln pts hwp hwp_notify hwp_act_window hwp_epp"
 # WARNING: Changing your CHOST is not something that should be done lightly.
 # Please consult http://www.gentoo.org/doc/en/change-chost.xml before changing.
 CHOST="x86_64-pc-linux-gnu"
 # These are the USE flags that were used in addition to what is provided by the
 # profile used for building.
-USE="bindist mmx sse sse2 symlink python gpm vim-syntax latex zsh-completion alsa multislot svg abi_x86_32 jpeg png pdf doc http2"
+USE="bindist mmx sse sse2 symlink python gpm vim-syntax latex zsh-completion alsa multislot svg abi_x86_32 jpeg png pdf http2 pulseaudio -bindist"
 PORTDIR="/usr/portage"
 DISTDIR="${PORTDIR}/distfiles"
 PKGDIR="${PORTDIR}/packages"
@@ -18,7 +19,7 @@ GRUB_PLATFORMS="pc"
 VIDEO_CARDS="nvidia"
 PHP_INI_VERSION="production"
 PHP_TARGETS="php7-0"
-PORTAGE_RSYNC_EXTRA_OPTS="--exclude-from=/etc/portage/rsync_excludes"
+#PORTAGE_RSYNC_EXTRA_OPTS="--exclude-from=/etc/portage/rsync_excludes"
 #PORTDIR_OVERLAY="/etc/portage/repos.conf"
 
 #nginx modules
