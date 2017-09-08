@@ -17,8 +17,9 @@ As have been using [Gentoo Linux](https://gentoo.org/) for years in my work and 
 - Bootloader(Grub, UEFI/BIOS)
 
 # System Management
-- Network
-- Sound
+- [Network](SystemManagement.md#NetWork)
+- [Sound](SystemManagement.md#Sound)
+- [Power Management](SystemManagement.md#power-management)
 
 # Destop Environment
 - [Window Manager](Desktop.md#window-manager)
