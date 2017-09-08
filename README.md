@@ -22,7 +22,7 @@ As have been using [Gentoo Linux](https://gentoo.org/) for years in my work and 
 
 # Destop Environment
 - Window Manager
-- Graphics Card(Nvidia/Intel/AMD)
+- [Graphics Card(Nvidia/Intel/AMD)]()
 - Fonts(Specific Language Support)
 
 # Awesome Software Tools
