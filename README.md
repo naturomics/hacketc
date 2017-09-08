@@ -21,9 +21,9 @@ As have been using [Gentoo Linux](https://gentoo.org/) for years in my work and 
 - Sound
 
 # Destop Environment
-- Window Manager
-- [Graphics Card(Nvidia/Intel/AMD)]()
-- Fonts(Specific Language Support)
+- [Window Manager](Desktop.md#window-manager)
+- [Graphics Card(Nvidia/Intel/AMD)](Desktop.md#graphics-card)
+- [Fonts(Specific Language Support)](Desktop.md#fonts)
 
 # Awesome Software Tools
 - Wireless Attacks
