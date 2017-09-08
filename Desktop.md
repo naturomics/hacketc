@@ -12,7 +12,8 @@
 * doc:
   - [setup Intel integrated GPU(Gentoo wiki)](https://wiki.gentoo.org/wiki/Intel)
   - [setup Nvidia drivers(Gentoo wiki)](https://wiki.gentoo.org/wiki/NVidia/nvidia-drivers)
-  - optimus: which graphics card to use, nvidia or intel? [archlinux wiki](https://wiki.archlinux.org/index.php/NVIDIA_Optimus) and [gentoo linux wiki](https://wiki.gentoo.org/wiki/NVIDIA/Optimus)
+  - optimus:
+    * which graphics card to use, nvidia or intel? [archlinux wiki](https://wiki.archlinux.org/index.php/NVIDIA_Optimus) and [gentoo linux wiki](https://wiki.gentoo.org/wiki/NVIDIA/Optimus)
 
 * config example: 
   - [xorg.conf](gentoo-os/xorg.conf)
