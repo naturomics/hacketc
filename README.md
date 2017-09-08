@@ -7,7 +7,8 @@ As have been using [Gentoo Linux](https://gentoo.org/) for years in my work and 
 - [Linux Core System](#linux-core-system)
 - [System Management](#system-management)
 - [Desktop Environment](#desktop-enviroment)
-- [Licens](#license)
+- [Awesome Software Tools](#awesome-software-tools)
+- [License](#license)
 
 # Linux Core System
 - Partition
@@ -21,7 +22,10 @@ As have been using [Gentoo Linux](https://gentoo.org/) for years in my work and 
 
 # Destop Environment
 - Window Manager
-- Nvidia
-- Fonts
+- Graphics Card(Nvidia/Intel/AMD)
+- Fonts(Specific Language Support)
+
+# Awesome Software Tools
+- Wireless Attacks
 
 # License
