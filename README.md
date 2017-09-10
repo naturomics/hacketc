@@ -25,6 +25,7 @@ As have been using [Gentoo Linux](https://gentoo.org/) for years in my work and 
 - [Window Manager](Desktop.md#window-manager)
 - [Graphics Card(Nvidia/Intel/AMD)](Desktop.md#graphics-card)
 - [Fonts(Specific Language Support)](Desktop.md#fonts)
+- [Input Method](Desktop.md#input-method)
 
 # Awesome Software Tools
 - Wireless Attacks

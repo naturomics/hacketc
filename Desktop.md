@@ -2,6 +2,7 @@
 - [X Server](#x-server)
 - [Window Manager](#window-manager)
 - [Graphics Card](#graphics-card)
+- [Input Method](#input-method)
 - [Fonts](#fonts)
 
 # X Server
@@ -17,5 +18,8 @@
 
 * config example: 
   - [xorg.conf](gentoo-os/xorg.conf)
+
+# Input Method
+If you want to support a language beyond English
 
 # Fonts
