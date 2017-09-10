@@ -19,7 +19,7 @@ As have been using [Gentoo Linux](https://gentoo.org/) for years in my work and 
 # System Management
 - [Network](SystemManagement.md#NetWork)
 - [Sound](SystemManagement.md#Sound)
-- [Power Management](SystemManagement.md#power-management)
+- [Power Management and Battery Status](SystemManagement.md#power-management-and-battery-status)
 
 # Destop Environment
 - [Window Manager](Desktop.md#window-manager)

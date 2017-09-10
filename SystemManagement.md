@@ -2,4 +2,4 @@
 
 # Sound
 
-# Power Management
+# Power Management and Battery Status
