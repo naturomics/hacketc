@@ -28,6 +28,7 @@ As have been using [Gentoo Linux](https://gentoo.org/) for years in my work and 
 - [Input Method](Desktop.md#input-method)
 
 # Awesome Software Tools
-- Wireless Attacks
+- [Wireless Attacks](SoftwareTools.md#wireless-attacks)
+- [Screen Capture](SoftwareTools.md#screen-capture)
 
 # License
