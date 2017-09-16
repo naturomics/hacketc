@@ -5,4 +5,6 @@ xrandr --auto
 export GTK_IM_MODULE=fcitx
 export QT_IM_MODULE=fcitx
 export XMODIFIERS="@im=fcitx"
-exec dbus-launch --sh-syntax --exit-with-session fcitx & exec awesome
+exec "$(dbus-launch --sh-syntax --exit-with-session)"
+fcitx
+exec awesome
