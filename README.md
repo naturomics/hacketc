@@ -8,6 +8,7 @@ As have been using [Gentoo Linux](https://gentoo.org/) for years in my work and 
 - [System Management](#system-management)
 - [Desktop Environment](#desktop-enviroment)
 - [Awesome Software Tools](#awesome-software-tools)
+- [Gentoo Linux Special](#gentoo-linux-special)
 - [License](#license)
 
 # Linux Core System
@@ -30,5 +31,8 @@ As have been using [Gentoo Linux](https://gentoo.org/) for years in my work and 
 # Awesome Software Tools
 - [Wireless Attacks](SoftwareTools.md#wireless-attacks)
 - [Screen Capture](SoftwareTools.md#screen-capture)
+
+# Gentoo Linux Special
+- [using binary package](GentooSpecial.md#using-binary-package)
 
 # License
