@@ -12,9 +12,9 @@ As have been using [Gentoo Linux](https://gentoo.org/) for years in my work and 
 - [License](#license)
 
 # Linux Core System
-- Partition
-- Filesystem
-- Kernel
+- [Partition](LinuxBaseSys.md#partition)
+- [Filesystem](LinuxBaseSys.md#filesystem)
+- [Kernel](LinuxBaseSys.md#kernel-compiling)
 - Bootloader(Grub, UEFI/BIOS)
 
 # System Management
