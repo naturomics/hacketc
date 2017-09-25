@@ -21,6 +21,7 @@ As have been using [Gentoo Linux](https://gentoo.org/) for years in my work and 
 - [Network](SystemManagement.md#NetWork)
 - [Sound](SystemManagement.md#Sound)
 - [Power Management and Battery Status](SystemManagement.md#power-management-and-battery-status)
+- [Printing Support](SystemManagement.md#printing-support)
 
 # Destop Environment
 - [Window Manager](Desktop.md#window-manager)
