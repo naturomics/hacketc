@@ -1,5 +1,5 @@
 # Hacketc项目
-[![languageBadge](https://img.shields.io/badge/language-English-blue.svg?style=plastic)](README.md)
+[![languageBadge](https://img.shields.io/badge/language-English-blue.svg?style=plastic)](https://github.com/naturomics/hacketc)
 
 Hacketc项目
 The Hacketc(Hack Etc) project aims to gather awesome tools and configurations for hacking a highly customized linux system.
