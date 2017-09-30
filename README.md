@@ -36,6 +36,7 @@ As have been using [Gentoo Linux](https://gentoo.org/) for years in my work and 
 - [Wireless Attacks](SoftwareTools.md#wireless-attacks)
 - [Screen Capture](SoftwareTools.md#screen-capture)
 - [Security Scanner](SoftwareTools.md#security-scanner)
+- [Editor(vim)](SoftwareTools.md#editor)
 
 # Awesome Web Apps
 - [Writing Editor](webAPPs.md#writing-editor)
