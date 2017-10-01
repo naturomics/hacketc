@@ -1,8 +1,8 @@
 # Hacketc项目
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=plastic)](LICENSE)
-[![language](https://img.shields.io/badge/language-English-blue.svg?style=plastic)](https://github.com/naturomics/hacketc)
+[![language](https://img.shields.io/badge/language-English-green.svg?style=plastic)](https://github.com/naturomics/hacketc)
 
-Hacketc项目旨在通过收集、整理相关的文档、工具、配置文件，以达到帮助linux爱好者们配置出一台高度定制化的linux系统的目的.
+Hacketc项目旨在通过**收集、整理相关的文档、工具、配置文件，帮助 Linux 爱好者们配置出一台高度定制化的 Linux 系统**.
 
 本项目的发起人在日常生活和工作中使用了多年的[Gentoo Linux](https://gentoo.org/)系统，在使用过程中遇到过各种各样的配置问题或者软件Bug，常常在互联网上寻找解决方法而练就了一身解决Bug的技能，甚至在网上搜索无果后为此而扒开过相关软件、linux内核的源代码进行修改才得以解决问题. 每每这时候，就觉得有一份既能解释清楚原因，又能给出详细步骤的解决方案是多么的令人欣慰. 但想要得到这样的文档或工具却常常是不容易的，甚至自己曾经解决过的问题再次遇到时也不一定能记得怎么解决的. 本项目就是希望通过收集整理一些工具、精华文档和配置文件实例，记录本人在解决问题中的经验，以帮助那些与我一样希望打造一套个性化Linux系统的人们. 本项目无意去重复互联网上已有的大量精华资源，而是通过链接把它们整理到本项目中相应的地方，而网络上没有或我们暂未发现较好资源的，则尽我们的所能去完善一份指导手册.
 
