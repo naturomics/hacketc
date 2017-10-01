@@ -1,6 +1,6 @@
 # Hacketc Project
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=plastic)](LICENSE)
-[![language](https://img.shields.io/badge/language-中文-yellowgreen.svg?style=plastic)](README_zh.md)
+[![language](https://img.shields.io/badge/language-中文-green.svg?style=plastic)](README_zh.md)
 
 The Hacketc(Hack Etc) project aims to gather awesome tools and configurations for hacking a highly customized linux system.
 
@@ -44,5 +44,3 @@ As have been using [Gentoo Linux](https://gentoo.org/) for years in my work and 
 # Awesome Web Apps
 - [Writing Editor](webAPPs.md#writing-editor)
 - [Remote Collaboration](webAPPs.md#remote-collaboration)
-
-# License
