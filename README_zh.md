@@ -1,5 +1,6 @@
 # Hacketc项目
-[![languageBadge](https://img.shields.io/badge/language-English-blue.svg?style=plastic)](https://github.com/naturomics/hacketc)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=plastic)](LICENSE)
+[![language](https://img.shields.io/badge/language-English-blue.svg?style=plastic)](https://github.com/naturomics/hacketc)
 
 Hacketc项目旨在通过收集、整理相关的文档、工具、配置文件，以达到帮助linux爱好者们配置出一台高度定制化的linux系统的目的.
 

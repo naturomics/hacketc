@@ -1,5 +1,6 @@
 # Hacketc Project
-[![languageBadge](https://img.shields.io/badge/language-中文-yellowgreen.svg?style=plastic)](README_zh.md)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=plastic)](LICENSE)
+[![language](https://img.shields.io/badge/language-中文-yellowgreen.svg?style=plastic)](README_zh.md)
 
 The Hacketc(Hack Etc) project aims to gather awesome tools and configurations for hacking a highly customized linux system.
 
