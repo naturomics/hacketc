@@ -10,7 +10,7 @@ What I'm using:
 ----------
 |**OS**|**File System**|**Window Manager**|**Terminal**|**Editor**|
 |------|---------------|------------------|------------|----------|
-|[![Gentoo](https://www.gentoo.org/assets/img/badges/gentoo-badge.png)](https://www.gentoo.org/)|btrfs|awesome|tilda|vim|
+|[![Gentoo](imgs/gentoo-logo-horizontal.svg)](https://www.gentoo.org/)|btrfs|awesome|tilda|vim|
 
 ## Table of Contents
 - [Linux Core System](#linux-core-system)
