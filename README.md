@@ -8,7 +8,8 @@ As have been using [Gentoo Linux](https://gentoo.org/) for years in my work and 
 
 What I'm using:
 ----------
-|**OS**|**File System**|**Window Manager**|**Terminal**|**Editor**
+|**OS**|**File System**|**Window Manager**|**Terminal**|**Editor**|
+|------|---------------|------------------|------------|----------|
 |Gentoo|btrfs|awesome|tilda|vim|
 
 ## Table of Contents
