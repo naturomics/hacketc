@@ -6,6 +6,11 @@ The Hacketc(Hack Etc) project aims to gather awesome tools and configurations fo
 
 As have been using [Gentoo Linux](https://gentoo.org/) for years in my work and daily life, I've experienced a lot of configuration issues and software bugs. And I found that to find out a useful tool and make software work is always not easy, or some issues I had met but forgot how to fix them again. This project help the people who have the same experience with me by gathering awesome tools and configurations, taking notes of usefully problem solving skills. It is not going to replace any documents or wiki existed on the Internet, but link to them and supplement them.
 
+What I'm using:
+----------
+|**OS**|**File System**|**Window Manager**|**Terminal**|**Editor**
+|Gentoo|btrfs|awesome|tilda|vim|
+
 ## Table of Contents
 - [Linux Core System](#linux-core-system)
 - [System Management](#system-management)
