@@ -10,7 +10,11 @@ What I'm using:
 ----------
 |**OS**|**File System**|**Window Manager**|**Terminal**|**Editor**|
 |------|---------------|------------------|------------|----------|
-|[![Gentoo](imgs/gentoo-logo-horizontal.png)](https://www.gentoo.org/)|[![btrfs](imgs/btrfs-logo-101x55.png)](https://btrfs.wiki.kernel.org/index.php/Main_Page)|[![awesomewm](imgs/awesomewm-logo-197x32.png)](https://awesomewm.org/)|[![tilda](imgs/tilda-logo-128x40.png)](http://tilda.sourceforge.net/tildaabout.php)|[![vim](imgs/vim-logo-104x50.png)](http://www.vim.org)|
+|[![Gentoo](imgs/gentoo-logo-horizontal.png)](https://www.gentoo.org/)|[![btrfs](imgs/btrfs-logo-83x45.png)](https://btrfs.wiki.kernel.org/index.php/Main_Page)|[![awesomewm](imgs/awesomewm-logo-197x32.png)](https://awesomewm.org/)|[![tilda](imgs/tilda-logo-128x40.png)](http://tilda.sourceforge.net/tildaabout.php)|[![vim](imgs/vim-logo-104x50.png)](http://www.vim.org)|
+
+|**Web Browser**|
+|---------------|
+|[![google-chrome](imgs/chrome-logo-50x50.png)](http://www.google.cn/chrome/browser/desktop/index.html)|
 
 ## Table of Contents
 - [Linux Core System](#linux-core-system)
