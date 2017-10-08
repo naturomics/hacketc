@@ -6,6 +6,16 @@ Hacketc项目旨在通过**收集、整理相关的文档、工具、配置文�
 
 本项目的发起人在日常生活和工作中使用了多年的[Gentoo Linux](https://gentoo.org/)系统，在使用过程中遇到过各种各样的配置问题或者软件Bug，常常在互联网上寻找解决方法而练就了一身解决Bug的技能，甚至在网上搜索无果后为此而扒开过相关软件、linux内核的源代码进行修改才得以解决问题. 每每这时候，就觉得有一份既能解释清楚原因，又能给出详细步骤的解决方案是多么的令人欣慰. 但想要得到这样的文档或工具却常常是不容易的，甚至自己曾经解决过的问题再次遇到时也不一定能记得怎么解决的. 本项目就是希望通过收集整理一些工具、精华文档和配置文件实例，记录本人在解决问题中的经验，以帮助那些与我一样希望打造一套个性化Linux系统的人们. 本项目无意去重复互联网上已有的大量精华资源，而是通过链接把它们整理到本项目中相应的地方，而网络上没有或我们暂未发现较好资源的，则尽我们的所能去完善一份指导手册.
 
+我正在使用：
+-----------
+|**操作系统**|**文件系统**|**窗口管理器**|**终端**|**编辑器**|
+|:----:|:-------------:|:----------------:|:----------:|:--------:|
+|[![Gentoo](imgs/gentoo-logo-horizontal.png)](https://www.gentoo.org/)|[![btrfs](imgs/btrfs-logo-83x45.png)](https://btrfs.wiki.kernel.org/index.php/Main_Page)|[![awesomewm](imgs/awesomewm-logo-197x32.png)](https://awesomewm.org/)|[![tilda](imgs/tilda-logo-128x40.png)](http://tilda.sourceforge.net/tildaabout.php)|[![vim](imgs/vim-logo-104x50.png)](http://www.vim.org)|
+
+|**网页浏览器**|
+|:-------------:|
+|[![google-chrome](imgs/chrome-logo-50x50.png)](http://www.google.cn/chrome/browser/desktop/index.html)|
+
 ## 目录
 - [Linux核心系统](#Linux核心系统)
 - [系统管理相关](#系统管理相关)
