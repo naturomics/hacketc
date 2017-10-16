@@ -47,7 +47,7 @@ Hacketc项目旨在通过**收集、整理相关的文档、工具、配置文�
 
 # 软件工具专题
 - [无线网络攻击](SoftwareTools.md#wireless-attacks)
-- [屏幕截图](SoftwareTools.md#screen-capture)
+- [屏幕截图/录制](SoftwareTools.md#screen-capture)
 - [安全扫描器](SoftwareTools.md#security-scanner)
 - [文本编辑器(vim)](SoftwareTools.md#editor)
 

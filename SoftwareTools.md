@@ -12,6 +12,8 @@
   * usage:
     - [Introduction in Chinese](https://github.com/LinuxTOY/linuxtoy.org/blob/master/content/mastering-scrot.md)
 
+- [SimpleScreenRecorder](https://www.maartenbaert.be/simplescreenrecorder): A simple screen recorder
+
 # Security Scanner
 - [nmap](https://nmap.org/): a network scanner and sniffer toolkit
   * usage:
