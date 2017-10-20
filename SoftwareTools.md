@@ -17,6 +17,8 @@
 # Security Scanner
 - [nmap](https://nmap.org/): a network scanner and sniffer toolkit
   * usage:
+
+- [rkhunter](http://rkhunter.sourceforge.net/): Rootkit Hunter, security monitoring and analyzing tool for POSIX compliant systems
  
 # Editor
   This is really a big topic, we have a lot of editor options in linux, such as vim, emacs. But vim is really a good one that I always use it in my daily life. I would like to open a new section for vim to tell its long story. Find it in the follow link!
